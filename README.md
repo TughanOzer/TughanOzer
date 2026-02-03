@@ -1,11 +1,11 @@
 # Hi, I'm Tughan Özer 👋
 **C# Software Developer | B.A. Game Design**
 
-Software developer with a strong foundation in **C#**, **Unity**, and **Software Architecture**. I enjoy tackling complex backend logic while keeping the user experience in focus, a mindset shaped by my background in **Game Design**, and my experience in XR prototyping at **Fraunhofer IPK**.
+I'm a software developer with a background in **Game Design**. I specialize in **C#** and **Unity**, focusing on **system architecture** and the logic behind the UI. I enjoy tackling complex backend logic while keeping the user experience in focus, a mindset shaped by my background in **Game Design**, and my experience in XR prototyping at **Fraunhofer IPK**.
 
 ---
 
-### Key Project: Gamified Foodsharing P2P Platform
+### What I've been working on: Gamified Foodsharing P2P Platform
 *Bachelor Thesis Project*
 A mobile Android application focused on reducing food waste through a peer-to-peer sharing system.
 * **Core Tech:** C#, Unity, Netcode for GameObjects (NGO).
