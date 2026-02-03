@@ -1,7 +1,7 @@
 # Hi, I'm Tughan Özer 👋
 **C# Software Developer | B.A. Game Design**
 
-Software developer with a strong foundation in **C#**, **Unity**, and **Software Architecture**. I enjoy tackling complex backend logic while keeping the user experience in focus—a mindset shaped by my background in **Game Design**, and my experience in XR prototyping at **Fraunhofer IPK**.
+Software developer with a strong foundation in **C#**, **Unity**, and **Software Architecture**. I enjoy tackling complex backend logic while keeping the user experience in focus, a mindset shaped by my background in **Game Design**, and my experience in XR prototyping at **Fraunhofer IPK**.
 
 ---
 
