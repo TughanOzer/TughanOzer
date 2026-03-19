@@ -10,7 +10,7 @@ I'm a software developer with a background in **Game Design**. I specialize in *
 A mobile Android application focused on reducing food waste through a peer-to-peer sharing system.
 * **Core Tech:** C#, Unity, Netcode for GameObjects (NGO).
 * **Architecture:** Implementation of a server-authoritative system for state synchronization.
-* **Highlight:** [View OnlineManager.cs](https://github.com/TughanOzer/Food-Sharing-Platform-Prototyp/blob/main/Assets/OnlineManager.cs) - Central hub for network logic, RPCs, and data consistency.
+* **Highlight:** [View OnlineManager.cs](https://github.com/TughanOzer/Food-Sharing-Platform-Prototyp/blob/main/Assets/OnlineManager.cs) - Central script for network logic, RPCs, etc.
 
 ### Toolbox
 * **Languages:** C#, C++, C, Java (Basics),
