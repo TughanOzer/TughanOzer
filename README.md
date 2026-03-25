@@ -13,7 +13,7 @@ A mobile Android application focused on reducing food waste through a peer-to-pe
 * **Highlight:** [View OnlineManager.cs](https://github.com/TughanOzer/Food-Sharing-Platform-Prototyp/blob/main/Assets/OnlineManager.cs) - Central script for network logic, RPCs, etc.
 
 ### Toolbox
-* **Languages:** C#, C++, C, Java (Basics),
+* **Languages:** C#, C++, C
 * **Principles:** Clean Code, Agile (Scrum), DRY, SPOT/SSOT
 * **Tools:** Unity, Git (GitHub/GitLab), Visual Studio, Blender, Krita
 * **Interests:** Local LLM Integration, 3D Printing, 3D Hardsurface Modeling, Rapid Prototyping
